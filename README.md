@@ -1,24 +1,16 @@
+# To get started 
 
-      ## READ ME To get started 
-
-      The data is stored in fma_metadata. The data that we use to train our models is stored in fma_metadata/features.csv and fma_metadata/tracks.csv. 
-
-
-      The requirements are listed at the top of each code file. 
+The data is stored in fma_metadata. The data that we use to train our models is stored in fma_metadata/features.csv and fma_metadata/tracks.csv. 
 
 
-      The code files that contain our models and the code for the graders to run are the following: 
+The requirements are listed at the top of each code file. 
 
-      KRR_clean.ipynb 
+The code files that contain our models and the code for the graders to run are the following: 
 
-      Neural_Net.ipynb 
+KRR_clean.ipynb 
 
-      Perceptron.ipynb 
+Neural_Net.ipynb 
 
-      SVMRBF.ipynb 
+Perceptron.ipynb 
 
-
-      When mounting your google drive, you are expected put your own custom file path in the os.chdir argument. To find this ctrl-F "TODO for graders" 
-
-
-    
+SVMRBF.ipynb 

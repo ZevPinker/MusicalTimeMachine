@@ -1,3 +1,7 @@
+# Introduction
+The Musical Time Machine (formerly: Musical Vintage) is a framework for machine-learning analysis of era of production of music based on static analysis of features. For the full paper see the pdf labelled MusicalVintage.
+
+This project was completed by Shlomi Helfgot, Ami Listokin, and Zev Pinker (names are organized alphabetically; an equal share was done by all) in Spring of 2024 at Yale. 
 # To get started 
 
 The data is stored in fma_metadata. The data that we use to train our models is stored in fma_metadata/features.csv and fma_metadata/tracks.csv. 
